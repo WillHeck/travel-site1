@@ -1,0 +1,11 @@
+body {
+  color: rgb(25, 6, 185);
+  padding: 25px;
+  margin: 10px;
+  colums: 300px 2;
+  }
+
+  .box a {
+      display: block;
+      padding: 10px;
+    }
