@@ -10,10 +10,10 @@
     display: block;
     margin: 0 auto;
 
-  @mixin atSmall {
-    position: absolute;
-    left: 0;
-  }
+    @mixin atSmall {
+      position: absolute;
+      left: 0;
+    }
   }
 
   &__title {
@@ -24,7 +24,7 @@
     text-align: center;
 
     @mixin atSmall {
-      text-align: left; 
+      text-align: left;
       margin-top: 1em;
       font-size: 1.875rem;
     }
