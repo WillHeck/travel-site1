@@ -7,7 +7,7 @@
 
   &--pull-right {
     @mixin atMedium {
-      float: right;
+      float: right; 
     }
   }
 
